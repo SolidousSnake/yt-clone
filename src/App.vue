@@ -19,6 +19,8 @@ body {
 
 body.darkmode p,
 body.darkmode h1,
+body.darkmode h2,
+body.darkmode h3,
 body.darkmode a {
   color: #f5f5f5;
 }
