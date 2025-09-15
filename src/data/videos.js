@@ -3,9 +3,9 @@
         id: 1,
         title: "СПАНЧ БОБ ГОВОРИТ \"_\" 50 РАЗ ПОДРЯД",
         chanel: "sponge bob",
-        thumbnail: process.env.BASE_URL + "/thumb1.jpg",
-        preview: process.env.BASE_URL + "/preview1.mp4",
-        src: process.env.BASE_URL + "/preview1.mp4",
+        thumbnail: process.env.BASE_URL + "thumb1.jpg",
+        preview: process.env.BASE_URL + "preview1.mp4",
+        src: process.env.BASE_URL + "preview1.mp4",
         likesCount: 0,
         dislikesCount: 0
     },
